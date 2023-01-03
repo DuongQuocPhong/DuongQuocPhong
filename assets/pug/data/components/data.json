@@ -1,0 +1,103 @@
+
+    {
+        "links": [
+            {
+                "href": "#/",
+                "text": "IPhone"
+            },
+            {
+                "href": "#/",
+                "text": "Phone"
+            },
+            {
+                "href": "#/",
+                "text": "Laptops"
+            },
+            {
+                "href": "#/",
+                "text": "Computers"
+            },
+            {
+                "href": "#/",
+                "text": "Watches"
+            }
+        ],
+        "phoneProducts": [
+            {
+                "img": "./images/card1.jpg",
+                "name": "iPhone 11",
+                "price": "123",
+                "oldPrice": "456"
+
+            },
+            {
+                "img": "./images/ip12.jpg",
+                "name": "iPhone 12",
+                "price": "435",
+                "oldPrice": "879"
+            },
+            {
+                "img": "./images/ip13.jpg",
+                "name": "iPhone 13",
+                "price": "890",
+                "oldPrice": "1500"
+            },
+            {
+                "img": "./images/ip14.jpg",
+                "name": "iPhone 14",
+                "price": "900",
+                "oldPrice": "1600"
+            },
+            {
+                "img": "./images/ip14prm.jpg",
+                "name": "iPhone 14 Pro Max",
+                "price": "1000",
+                "oldPrice": "2000"
+            },
+            {
+                "img": "./images/ip13prm.jpg",
+                "name": "iPhone 13 Pro Max",
+                "price": "500",
+                "oldPrice": "1000"
+            }
+        ],
+        "iPadsProducts": [
+            {
+                "img": "./images/ipada2.jpg",
+                "name": "Apple iPad Air 2",
+                "price": "500",
+                "oldPrice": "600"
+
+            },
+            {
+                "img": "./images/ipada5.jpg",
+                "name": "Apple iPad Air 5",
+                "price": "700",
+                "oldPrice": "800"
+            },
+            {
+                "img": "./images/ipadpro11.jpg",
+                "name": "Apple iPad Pro 11",
+                "price": "400",
+                "oldPrice": "500"
+            },
+            {
+                "img": "./images/ipadpro2021.jpg",
+                "name": "Apple iPad Pro 11",
+                "price": "800",
+                "oldPrice": "850"
+            },
+            {
+                "img": "./images/ipadprom1.jpg",
+                "name": "Apple iPad Pro M1",
+                "price": "678",
+                "oldPrice": "789"
+            },
+            {
+                "img": "./images/ipada4.jpg",
+                "name": "Apple iPad Air 4",
+                "price": "560",
+                "oldPrice": "760"
+            }
+        ]
+    }

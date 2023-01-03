@@ -1,0 +1,17 @@
+mixin nav(links, parent)
+    nav(class= parent + '__nav')
+        ul(class= parent + '__nav-list')
+            each link in links
+                li(class= parent + '__nav-item')
+                    a(href='#')= link.text
+
+
+
+//- mixin nava(link)
+//-     ul.navbar__parents
+//-         each link in links
+//-             li.item-parent
+//-                 a(href='#/')
+//-                     span= link.text
+//-                     i.fa-solid.fa-caret-down
+         
